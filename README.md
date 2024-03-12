@@ -49,3 +49,12 @@ Implement a method [#stock_picker](https://www.theodinproject.com/lessons/ruby-s
 stock_picker([17,3,6,9,15,8,6,1,10])
 => [1,4]  # for a profit of $15 - $3 == $12
 ```
+
+## [Bubble Sort](lib/bubble_sort.rb)
+
+Build a method [#bubble_sort](https://www.theodinproject.com/lessons/ruby-bubble-sort) that takes an array and returns a sorted array. It must use the bubble sort methodology (using #sort would be pretty pointless, wouldn’t it?).
+
+```irb
+> bubble_sort([4,3,78,2,0,2])
+=> [0,2,2,3,4,78]
+```
