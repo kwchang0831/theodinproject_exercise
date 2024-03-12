@@ -1,5 +1,3 @@
-# spec/substrings_spec.rb
-
 require "spec_helper"
 require_relative "../lib/substrings"
 

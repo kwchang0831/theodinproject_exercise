@@ -1,5 +1,3 @@
-# spec/caesar_cipher_sepc.rb
-
 require "spec_helper"
 require_relative "../lib/caesar_cipher"
 
